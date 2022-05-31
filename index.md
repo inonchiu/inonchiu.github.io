@@ -17,7 +17,7 @@ In the winter semester of 2022, I will join Department of Physics at [National C
 Currently, I am an independent postdoc at [Tsung-Dao Lee Institute (TDLI)][tdli] and [Shanghai Jiao Tong University][sjtu] in Shanghai, China.
 Before that, I was a postdoc working with Prof. [Keiichi Umetsu][keiichi] and Prof. [Teppei Okumura][teipei]
 at [Academia Sinica Institute of Astronomy and Astrophysics (ASIAA)][asiaa] during 2016 and 2020.
-I obtained my PhD under the supervision of Prof. Dr. [Joseph Mohr][mohr] at [Ludwig Maximilians University (LMU)][lmu] in Munich from 2012 to 2016.
+I obtained my PhD under the supervision of Prof. Dr. [Joseph Mohr][mohr] at [Ludwig Maximilians University (LMU)][lmu] in 2016.
 Before moving to Munich, I studied my Master Degree in [National Taiwan University (NTU)][ntu] and [ASIAA][asiaa] working with
 Prof. [Sandor Molnar][sandor] and Prof. [Pisin Chen][pisin].
 
