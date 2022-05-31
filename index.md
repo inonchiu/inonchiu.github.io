@@ -8,7 +8,7 @@ Hello, I am an astrophysicist and cosmologist from [Taiwan][taiwan].
 I was born and raised in Taipei, Taiwan.
 Welcome to my personal webpage.
 
-My research interests lie in the field of observational cosmology with a focus on utilizing galaxy clusters as a probe.
+My research interests lie in the field of observational cosmology and astrophysics with a focus on utilizing galaxy clusters as a probe.
 I am also highly interested in astro-statistics, high-performance computing, and data science in general.
 
 In the winter semester of 2022, I will join Department of Physics at [National Cheng Kung University (NCKU)][ncku] as an Assistant Professor.
