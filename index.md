@@ -8,7 +8,7 @@ subtitle: Postdotoral Fellow at Tsung-Dao Lee Institute (TDLI)
 
 Hello, I am an astrophysicist and cosmologist from [Taiwan][taiwan].
 I was born and raised in Taipei, Taiwan.
-Welcome to my personal webpage.
+Welcome to my webpage.
 
 My research interests lie in the field of observational cosmology and astrophysics with a focus on utilizing galaxy clusters as a probe.
 I am also highly interested in astro-statistics, high-performance computing, and data science in general.
