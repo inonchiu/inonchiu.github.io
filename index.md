@@ -4,6 +4,8 @@ title: I-Non Chiu
 subtitle: Postdotoral Fellow at Tsung-Dao Lee Institute (TDLI)
 ---
 
+![](/assets/img/me1.jpeg "Picture of I-Non Chiu taken at University Observatory Munich in 2016.")
+
 Hello, I am an astrophysicist and cosmologist from [Taiwan][taiwan].
 I was born and raised in Taipei, Taiwan.
 Welcome to my personal webpage.
