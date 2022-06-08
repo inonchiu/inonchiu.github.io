@@ -15,7 +15,7 @@ author: I-Non Chiu
 
 navbar-links:
   Data Products:
-      - Baryon Content of SPT clusters (Chiu+18): "dataProducts"
+      - Baryon Content of SPT clusters (Chiu+18): "SPT_baryon_chiu18"
   #  Resources:
   #    - Beautiful Jekyll: "https://beautifuljekyll.com"
   #    - Learn markdown: "https://www.markdowntutorial.com/"
