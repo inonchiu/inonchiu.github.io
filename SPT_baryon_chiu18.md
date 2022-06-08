@@ -2,6 +2,7 @@
 layout: page
 title: The baryon content of SPT clusters
 mathjax: true
+nav-short: true
 ---
 
 The baryon content of 91 clusters selected by the South Pole Telescope was thoroughly studied in [Chiu+18][chiu18].
