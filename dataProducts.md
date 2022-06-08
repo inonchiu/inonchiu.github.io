@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Data Products
-subtitle: This page contains the data profucts of my selected publications
 ---
 
 # The baryon content of SPT clusters
