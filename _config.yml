@@ -14,7 +14,7 @@ author: I-Non Chiu
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Data: "data"
+  Data Products: "dataProducts"
   #  Resources:
   #    - Beautiful Jekyll: "https://beautifuljekyll.com"
   #    - Learn markdown: "https://www.markdowntutorial.com/"
