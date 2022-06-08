@@ -14,7 +14,7 @@ author: I-Non Chiu
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  #About Me: "aboutme"
+  Data: "data"
   #  Resources:
   #    - Beautiful Jekyll: "https://beautifuljekyll.com"
   #    - Learn markdown: "https://www.markdowntutorial.com/"
