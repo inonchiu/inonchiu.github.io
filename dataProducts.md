@@ -23,4 +23,4 @@ The table reads
 | fcold, fcold_err  | The cold baryon fraction $f_{\mathrm{cold}}\equiv M_{\star} / M_{\mathrm{b}}$ |
 
 [chiu18]:https://ui.adsabs.harvard.edu/abs/2018MNRAS.478.3072C/abstract
-[chiu18table]:../_materials/xvp_chiu18.fits
+[chiu18table]:https://github.com/inonchiu/inonchiu.github.io/blob/master/_materials/chiu18/
