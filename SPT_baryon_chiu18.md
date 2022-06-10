@@ -4,7 +4,7 @@ title: The baryon content of SPT clusters
 mathjax: true
 ---
 
-The baryon content of 91 clusters selected by the South Pole Telescope was thoroughly studied in [Chiu+18][chiu18].
+The baryon content of 91 clusters selected by the South Pole Telescope was studied in [Chiu+18][chiu18].
 As presented in Table 2, the measurements of the total stellar mass ($M_{\star}$), the gas mass ($M_{\mathrm{gas}}$), and  the total halo mass ($M_{500}$) can be downloaded [here][chiu18table].
 The table reads
 
