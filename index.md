@@ -7,8 +7,8 @@ subtitle: Postdotoral Fellow at Tsung-Dao Lee Institute (TDLI)
 ![](/assets/img/me1.jpeg "Picture of I-Non Chiu taken at University Observatory Munich in 2016.")
 
 Hello, I am an astrophysicist and cosmologist from [Taiwan][taiwan].
-I was born and raised in Taipei, Taiwan.
-Welcome to my webpage.
+#I was born and raised in Taipei, Taiwan.
+#Welcome to my webpage.
 
 My research interests lie in the field of observational cosmology and astrophysics with a focus on utilizing galaxy clusters as a probe.
 I am also highly interested in astro-statistics, high-performance computing, and data science in general.
