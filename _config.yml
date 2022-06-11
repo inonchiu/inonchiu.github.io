@@ -17,6 +17,7 @@ navbar-links:
   Data Products:
       - X-ray properties of SPT clusters (Bulbul, Chiu+19): "XMMSPT_bulbul_chiu19"
       - Baryon Content of SPT clusters (Chiu+18): "SPT_baryon_chiu18"
+      - Stellar properties of X-ray clusters (Chiu+16c): "XMMBCS_chiu16c"
   #  Resources:
   #    - Beautiful Jekyll: "https://beautifuljekyll.com"
   #    - Learn markdown: "https://www.markdowntutorial.com/"
