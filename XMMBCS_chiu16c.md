@@ -5,7 +5,7 @@ mathjax: true
 ---
 
 The stellar properties (i.e., the total stellar mass $M_{\star}$ and the fraction of blue galaxies $f_{\mathrm{blue}}$) of 46 X-ray selected clusters 
-in the [XMM-BCS][suhada12] survey was studied with the [Blanco Cosmology Survey (BCS; Desai+12)][desai12] and the [Spitzer South Pole Telescope Deep Field (SSDF; Ashby+13)][ashby13] in [Chiu+16c][chiu16c].
+in the [XMM-BCS][suhada12] survey were studied with the [Blanco Cosmology Survey (BCS; Desai+12)][desai12] and the [Spitzer South Pole Telescope Deep Field (SSDF; Ashby+13)][ashby13] in [Chiu+16c][chiu16c].
 As presented in Table 1, the measurements of the stellar properties, selected X-ray measurements, and the total halo mass can be downloaded [here][chiu16ctable].
 The table reads
 

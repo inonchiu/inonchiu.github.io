@@ -4,7 +4,7 @@ title: The X-ray properties of SPT clusters
 mathjax: true
 ---
 
-The X-ray properties of 59 clusters selected by the South Pole Telescope (SPT) was studied with the _XMM-Newton_ telescope in [Bulbul, Chiu+19][bulbul19].
+The X-ray properties of 59 clusters selected by the South Pole Telescope (SPT) were studied with the _XMM-Newton_ telescope in [Bulbul, Chiu+19][bulbul19].
 As presented in Table 3, the measurements of the X-ray properties and the total halo mass can be downloaded [here][bulbul19table].
 The table reads
 
