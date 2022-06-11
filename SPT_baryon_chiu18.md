@@ -21,5 +21,8 @@ The table reads
 | mbary, mbary_err  | The total baryon mass $M_{\mathrm{b}}$ in $M_{\odot}$|
 | fcold, fcold_err  | The cold baryon fraction $f_{\mathrm{cold}}\equiv M_{\star} / M_{\mathrm{b}}$ |
 
+If you have used this catalog in your research, please kindly cite [Chiu+18][chiu18] (and [Chiu+16a][chiu16a]).
+
+[chiu16a]:https://ui.adsabs.harvard.edu/abs/2016MNRAS.455..258C/abstract
 [chiu18]:https://ui.adsabs.harvard.edu/abs/2018MNRAS.478.3072C/abstract
 [chiu18table]:https://github.com/inonchiu/inonchiu.github.io/blob/master/_materials/chiu18/

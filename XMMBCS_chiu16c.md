@@ -21,6 +21,7 @@ The table reads
 | phistar, phistar\_err          | The normalization of the luminosity function in $L_{\odot}^{-1}$    |
 | fblue, fblue\_err              | The fraction of blue galaxies with respect to total galaxies members |
 
+If you have used this catalog in your research, please kindly cite [Chiu+16c][chiu16c].
 
 [suhada12]:https://ui.adsabs.harvard.edu/abs/2012A%26A...537A..39S/abstract
 [desai12]:https://ui.adsabs.harvard.edu/abs/2012ApJ...757...83D/abstract
