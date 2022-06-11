@@ -18,7 +18,7 @@ The table reads
 | r500        						| The cluster radius $R_{500}$ in $k$pc |
 | m500, m500\_err    			   | The halo mass $M_{500}$ in $M_{\odot}$ |
 | mstar, mstar\_err   		       | The total stellar mass in $M_{\odot}$ |
-| phistar, phistar\_err          | The normalization of the luminosity function in $L_{\odot}^{-1}$    |  |
+| phistar, phistar\_err          | The normalization of the luminosity function in $L_{\odot}^{-1}$    |
 | fblue, fblue\_err              | The fraction of blue galaxies with respect to total galaxies members |
 
 
