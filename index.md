@@ -15,7 +15,7 @@ In the winter semester of 2022, I will join Department of Physics at [National C
 Currently, I am an independent postdoc at [Tsung-Dao Lee Institute (TDLI)][tdli] and [Shanghai Jiao Tong University (SJTU)][sjtu] in Shanghai, China.
 Before that, I was a postdoc at [Academia Sinica Institute of Astronomy and Astrophysics (ASIAA)][asiaa] during 2016 and 2020.
 I obtained my PhD at [Ludwig Maximilians University (LMU)][lmu] in 2016.
-Before moving to Munich, I studied my Master Degree in [National Taiwan University (NTU)][ntu] and [ASIAA][asiaa].
+Before moving to Munich, I studied my Master Degree in Astrophysics at [National Taiwan University (NTU)][ntu] and [ASIAA][asiaa].
 
 [taiwan]:https://en.wikipedia.org/wiki/Taiwan
 [tainan]:https://en.wikipedia.org/wiki/Tainan

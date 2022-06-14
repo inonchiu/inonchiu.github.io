@@ -21,7 +21,7 @@ The table reads
 | Mgas, Mgas\_(loerr/hierr/err)    | The gas mass in $M_{\odot}$ |
 | Yxcin, Yxcin\_err, Yxcex, Yxcex\_err    | The parameter $Y_{\mathrm{X}}\equiv T_{\mathrm{X}}\times M_{\mathrm{gas}}$ in $k\mathrm{eV}\cdot  M_{\odot}$ |
 
-Note that "cin" and "cex" stands for the core-included and core-excised quantities. 
+Note that "cin" and "cex" stands for the core-included and core-excised quantities, respectively. 
 
 If you have used this catalog in your research, please kindly cite [Bulbul, Chiu+19][bulbul19].
 
