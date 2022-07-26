@@ -17,6 +17,8 @@ Before that, I was a postdoc at [Academia Sinica Institute of Astronomy and Astr
 I obtained my PhD at [Ludwig Maximilians University (LMU)][lmu] in 2016.
 Before moving to Munich, I studied my Master Degree in Astrophysics at [National Taiwan University (NTU)][ntu] and [ASIAA][asiaa].
 
+You can see my [CV][cv].
+
 [taiwan]:https://en.wikipedia.org/wiki/Taiwan
 [tainan]:https://en.wikipedia.org/wiki/Tainan
 [keiichi]:http://idv.sinica.edu.tw/keiichi/index.php
@@ -32,6 +34,6 @@ Before moving to Munich, I studied my Master Degree in Astrophysics at [National
 [lmu]:https://www.uni-muenchen.de/index.html
 [ntu]:http://www.ntu.edu.tw/english/index.html
 
-[cv]:res.pdf
+[cv]:cv_inonchiu_2022jul.pdf
 
 
