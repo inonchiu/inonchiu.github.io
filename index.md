@@ -1,7 +1,7 @@
 ---
 layout: page
 title: I-Non Chiu
-subtitle: Postdotoral Fellow at Tsung-Dao Lee Institute (TDLI)
+subtitle: Assistant Professor at National Cheng Kung University (NCKU)
 ---
 
 ![](/assets/img/me1.jpeg "Picture of I-Non Chiu taken at University Observatory Munich in 2016.")
