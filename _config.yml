@@ -15,6 +15,7 @@ author: I-Non Chiu
 
 navbar-links:
   Data Products:
+      - Cosmology and cluster masses in eFEDS (Chiu, Klein et al. submitted): "eFEDScosmology_chiu22"
       - X-ray properties of SPT clusters (Bulbul, Chiu+19): "XMMSPT_bulbul_chiu19"
       - Baryon Content of SPT clusters (Chiu+18): "SPT_baryon_chiu18"
       - Stellar properties of X-ray clusters (Chiu+16c): "XMMBCS_chiu16c"
