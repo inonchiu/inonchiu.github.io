@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The eFEDS survey: The chains of cosmological parameters and the cluster masses
+title: The eFEDS survey---The chains of cosmological parameters and the cluster masses
 mathjax: true
 ---
 
