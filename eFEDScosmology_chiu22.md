@@ -21,5 +21,5 @@ Note that lcdm (wcdm) denotes the values estimated in a flat $\Lambda$CDM ($w$CD
 
 If you have used this catalog in your research, please kindly cite [Chiu, Klein, et al. submitted][chiu22].
 
-[chiu22]:https://github.com/inonchiu/eFEDSproducts
+[chiu22]:https://ui.adsabs.harvard.edu/abs/2022arXiv220712429C/abstract
 [releases]:https://github.com/inonchiu/eFEDSproducts
