@@ -19,6 +19,8 @@ Before moving to Munich, I studied my Master Degree in Astrophysics at [National
 
 You can see my [CV][cv].
 
+<img style="float: left;width: 35%;" src="assets/img/NCKU_01.jpg">
+
 [taiwan]:https://en.wikipedia.org/wiki/Taiwan
 [tainan]:https://en.wikipedia.org/wiki/Tainan
 [keiichi]:http://idv.sinica.edu.tw/keiichi/index.php
