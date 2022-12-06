@@ -21,11 +21,11 @@ You can see my [CV][cv].
 **Contact**
 > -------
 Address: Room 36778, 7F, Department of Physics, No.1, University Road, Tainan City 701, Taiwan
----------
+> -------
 Phone: +886-6-2757575 ext. 65299
-> ---
+> -------
 E-mail: inchiu (at sign) phys.ncku.edu.tw
----
+> -------
 
 <img style="float: left;width: 35%;" src="assets/img/NCKU_01.jpg">
 <img style="float: left;width: 45%;" src="assets/img/nstc.jpg">
