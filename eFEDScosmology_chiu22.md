@@ -4,7 +4,7 @@ title: The eFEDS survey---The chains of cosmological parameters and the cluster 
 mathjax: true
 ---
 
-In [Chiu, Klein, et al. submitted][chiu22], we constrained cosmology using a sample of _eROSITA_ clusters selected in the eROSITA Final Equatorial-Depth Survey (eFEDS).
+In [Chiu, Klein, et al. (2023)][chiu23], we constrained cosmology using a sample of _eROSITA_ clusters selected in the eROSITA Final Equatorial-Depth Survey (eFEDS).
 
 The mass estimates and the chains of the cosmological parameters are released via [this link][releases]. The mass table reads
 
@@ -19,7 +19,7 @@ The mass estimates and the chains of the cosmological parameters are released vi
 
 Note that lcdm (wcdm) denotes the values estimated in a flat $\Lambda$CDM ($w$CDM) cosmology.
 
-If you have used this catalog in your research, please kindly cite [Chiu, Klein, et al. submitted][chiu22].
+If you have used this catalog in your research, please kindly cite [Chiu, Klein, et al. (2023)][chiu23].
 
-[chiu22]:https://ui.adsabs.harvard.edu/abs/2022arXiv220712429C/abstract
+[chiu23]:https://arxiv.org/abs/2207.12429
 [releases]:https://github.com/inonchiu/eFEDSproducts
