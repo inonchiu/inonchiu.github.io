@@ -7,7 +7,7 @@ subtitle: Assistant Professor at National Cheng Kung University (NCKU)
 ![](/assets/img/me1.jpeg "Picture of I-Non Chiu taken at University Observatory Munich in 2016.")
 
 
-My research interests lie in the field of observational cosmology and astrophysics with a focus on utilizing galaxy clusters as a probe.
+I am I-Non Chiu. My research interests lie in the field of observational cosmology and astrophysics with a focus on utilizing galaxy clusters as a probe.
 
 I am an Assistant Professor in Department of Physics at [National Cheng Kung University (NCKU)][ncku] in [Tainan][tainan], [Taiwan][taiwan].
 Before 2022, I was an independent postdoc at [Tsung-Dao Lee Institute (TDLI)][tdli] and [Shanghai Jiao Tong University (SJTU)][sjtu] in Shanghai, China.
