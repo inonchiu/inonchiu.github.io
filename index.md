@@ -1,6 +1,6 @@
 ---
 layout: page
-title: I-Non Chiu
+title: Chiu's Cosmology Crews at nCku ($C^4 = CCCC$)
 subtitle: Assistant Professor at National Cheng Kung University (NCKU)
 ---
 
@@ -8,7 +8,6 @@ subtitle: Assistant Professor at National Cheng Kung University (NCKU)
 
 
 My research interests lie in the field of observational cosmology and astrophysics with a focus on utilizing galaxy clusters as a probe.
-I am also highly interested in astro-statistics, high-performance computing, and data science in general.
 
 I am an Assistant Professor in Department of Physics at [National Cheng Kung University (NCKU)][ncku] in [Tainan][tainan], [Taiwan][taiwan].
 Before 2022, I was an independent postdoc at [Tsung-Dao Lee Institute (TDLI)][tdli] and [Shanghai Jiao Tong University (SJTU)][sjtu] in Shanghai, China.
