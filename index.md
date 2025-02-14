@@ -1,6 +1,6 @@
 ---
 layout: page
-title: <p style="color:blue">C</p>hiu's NCKU Cosmology Crews ($C^4$)
+title: Chiu's nCku Cosmology Crews ($C^4$)
 subtitle: Assistant Professor at National Cheng Kung University (NCKU)
 ---
 
