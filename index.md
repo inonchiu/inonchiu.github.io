@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Chiu's Cosmology Crews at nCku ($C^4 = CCCC$)
+title: Chiu's nCku Cosmology Crews ($C^4$)
 subtitle: Assistant Professor at National Cheng Kung University (NCKU)
 ---
 
@@ -42,6 +42,6 @@ You can see my [CV][cv].
 [lmu]:https://www.uni-muenchen.de/index.html
 [ntu]:http://www.ntu.edu.tw/english/index.html
 
-[cv]:cv_inonchiu_2022jul.pdf
+[cv]:cv_inonchiu_2025feb.pdf
 
 
